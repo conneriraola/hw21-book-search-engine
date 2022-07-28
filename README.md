@@ -61,4 +61,5 @@ This project is protected under the MIT License.
 
 ## Link
 
-See the following for a link to the deployed application: https://book-search-engine-nbulger.herokuapp.com
+See the following for a link to the deployed application: https://git.heroku.com/ci-hw21-book-search-engine.git
+
