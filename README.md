@@ -61,5 +61,5 @@ This project is protected under the MIT License.
 
 ## Link
 
-See the following for a link to the deployed application: https://git.heroku.com/ci-hw21-book-search-engine.git
+See the following for a link to the deployed application: https://ci-hw21-book-search-engine.herokuapp.com/
 
